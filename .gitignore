@@ -1,2 +1,3 @@
-imgs/**
-env/**
+imgs/in/**
+imgs/out/**
+.venv
